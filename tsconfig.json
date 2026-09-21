@@ -16,15 +16,14 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "baseUrl": ".",
     "paths": {
-      "@/*": ["src/*"],
-      "@domain/*": ["src/domain/*"],
-      "@data/*": ["src/data/*"],
-      "@state/*": ["src/state/*"],
-      "@components/*": ["src/components/*"],
-      "@views/*": ["src/views/*"],
-      "@seed/*": ["src/seed/*"]
+      "@/*": ["./src/*"],
+      "@domain/*": ["./src/domain/*"],
+      "@data/*": ["./src/data/*"],
+      "@state/*": ["./src/state/*"],
+      "@components/*": ["./src/components/*"],
+      "@views/*": ["./src/views/*"],
+      "@seed/*": ["./src/seed/*"]
     }
   },
   "include": ["src"]
