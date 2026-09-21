@@ -11,8 +11,6 @@ services:
         value: production
       - key: NODE_VERSION
         value: '22'
-      - key: DB_PATH
-        value: /data/data.db
       - key: SESSIONS_DAYS
         value: '30'
       - key: ADMIN_USERNAME
@@ -25,7 +23,3 @@ services:
         sync: false
       - key: REGISTER_CODE
         sync: false
-    disk:
-      name: data
-      mountPath: /data
-      sizeGB: 1
