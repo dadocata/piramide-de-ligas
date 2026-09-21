@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "cat_river-plate_0",
+    "name": "River Plate",
+    "shortName": "RIV",
+    "division": "Primera División",
+    "barrio": "Núñez",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_boca-juniors_1",
+    "name": "Boca Juniors",
+    "shortName": "BOC",
+    "division": "Primera División",
+    "barrio": "La Boca",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_racing-club_2",
+    "name": "Racing Club",
+    "shortName": "RAC",
+    "division": "Primera División",
+    "localidad": "Avellaneda",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_independiente_3",
+    "name": "Independiente",
+    "shortName": "IND",
+    "division": "Primera División",
+    "localidad": "Avellaneda",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_san-lorenzo_4",
+    "name": "San Lorenzo",
+    "shortName": "SLA",
+    "division": "Primera División",
+    "barrio": "Bajo Flores",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_velez-sarsfield_5",
+    "name": "Vélez Sarsfield",
+    "shortName": "VEL",
+    "division": "Primera División",
+    "barrio": "Liniers",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_estudiantes-de-la-plata_6",
+    "name": "Estudiantes de La Plata",
+    "shortName": "EST",
+    "division": "Primera División",
+    "localidad": "La Plata",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_gimnasia-de-la-plata_7",
+    "name": "Gimnasia de La Plata",
+    "shortName": "GIM",
+    "division": "Primera División",
+    "localidad": "La Plata",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_huracan_8",
+    "name": "Huracán",
+    "shortName": "HUR",
+    "division": "Primera División",
+    "barrio": "Parque Patricios",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_lanus_9",
+    "name": "Lanús",
+    "shortName": "LAN",
+    "division": "Primera División",
+    "barrio": "Lanús Este",
+    "localidad": "Lanús",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_argentinos-juniors_10",
+    "name": "Argentinos Juniors",
+    "shortName": "ARG",
+    "division": "Primera División",
+    "barrio": "La Paternal",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_newell-s-old-boys_11",
+    "name": "Newell’s Old Boys",
+    "shortName": "NOB",
+    "division": "Primera División",
+    "barrio": "Parque Independencia",
+    "localidad": "Rosario",
+    "provincia": "Santa Fe"
+  },
+  {
+    "id": "cat_rosario-central_12",
+    "name": "Rosario Central",
+    "shortName": "ROS",
+    "division": "Primera División",
+    "barrio": "Arroyito",
+    "localidad": "Rosario",
+    "provincia": "Santa Fe"
+  },
+  {
+    "id": "cat_banfield_13",
+    "name": "Banfield",
+    "shortName": "BAN",
+    "division": "Primera División",
+    "localidad": "Banfield",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_tigre_14",
+    "name": "Tigre",
+    "shortName": "TIG",
+    "division": "Primera División",
+    "localidad": "Victoria",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_platense_15",
+    "name": "Platense",
+    "shortName": "PLA",
+    "division": "Primera División",
+    "localidad": "Florida",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_sarmiento_16",
+    "name": "Sarmiento",
+    "shortName": "SAR",
+    "division": "Primera División",
+    "localidad": "Junín",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_talleres_17",
+    "name": "Talleres",
+    "shortName": "TAL",
+    "division": "Primera División",
+    "localidad": "Córdoba",
+    "provincia": "Córdoba"
+  },
+  {
+    "id": "cat_belgrano_18",
+    "name": "Belgrano",
+    "shortName": "BRG",
+    "division": "Primera División",
+    "localidad": "Córdoba",
+    "provincia": "Córdoba"
+  },
+  {
+    "id": "cat_atletico-tucuman_19",
+    "name": "Atlético Tucumán",
+    "shortName": "ATU",
+    "division": "Primera División",
+    "localidad": "San Miguel de Tucumán",
+    "provincia": "Tucumán"
+  },
+  {
+    "id": "cat_union_20",
+    "name": "Unión",
+    "shortName": "UNI",
+    "division": "Primera División",
+    "localidad": "Santa Fe",
+    "provincia": "Santa Fe"
+  },
+  {
+    "id": "cat_central-cordoba_21",
+    "name": "Central Córdoba",
+    "shortName": "CCS",
+    "division": "Primera División",
+    "localidad": "Santiago del Estero",
+    "provincia": "Santiago del Estero"
+  },
+  {
+    "id": "cat_defensa-y-justicia_22",
+    "name": "Defensa y Justicia",
+    "shortName": "DEF",
+    "division": "Primera División",
+    "localidad": "Florencio Varela",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_deportivo-riestra_23",
+    "name": "Deportivo Riestra",
+    "shortName": "RIE",
+    "division": "Primera División",
+    "barrio": "Villa Soldati",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_barracas-central_24",
+    "name": "Barracas Central",
+    "shortName": "BAR",
+    "division": "Primera División",
+    "barrio": "Barracas",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_instituto_25",
+    "name": "Instituto",
+    "shortName": "INS",
+    "division": "Primera División",
+    "localidad": "Córdoba",
+    "provincia": "Córdoba"
+  },
+  {
+    "id": "cat_independiente-rivadavia_26",
+    "name": "Independiente Rivadavia",
+    "shortName": "IRV",
+    "division": "Primera División",
+    "localidad": "Mendoza",
+    "provincia": "Mendoza"
+  },
+  {
+    "id": "cat_gimnasia-y-esgrima-de-mendoza_27",
+    "name": "Gimnasia y Esgrima de Mendoza",
+    "shortName": "GME",
+    "division": "Primera División",
+    "localidad": "Mendoza",
+    "provincia": "Mendoza"
+  },
+  {
+    "id": "cat_aldosivi_28",
+    "name": "Aldosivi",
+    "shortName": "ALD",
+    "division": "Primera División",
+    "localidad": "Mar del Plata",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_asociacion-atletica-estudiantes_29",
+    "name": "Asociación Atlética Estudiantes",
+    "shortName": "AAE",
+    "division": "Primera División",
+    "localidad": "Río Cuarto",
+    "provincia": "Córdoba"
+  },
+  {
+    "id": "cat_all-boys_30",
+    "name": "All Boys",
+    "shortName": "ALL",
+    "division": "Primera Nacional",
+    "barrio": "Floresta",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_ferro-carril-oeste_31",
+    "name": "Ferro Carril Oeste",
+    "shortName": "FER",
+    "division": "Primera Nacional",
+    "barrio": "Caballito",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_deportivo-madryn_32",
+    "name": "Deportivo Madryn",
+    "shortName": "MAD",
+    "division": "Primera Nacional",
+    "localidad": "Puerto Madryn",
+    "provincia": "Chubut"
+  },
+  {
+    "id": "cat_chaco-for-ever_33",
+    "name": "Chaco For Ever",
+    "shortName": "CFE",
+    "division": "Primera Nacional",
+    "localidad": "Resistencia",
+    "provincia": "Chaco"
+  },
+  {
+    "id": "cat_deportivo-moron_34",
+    "name": "Deportivo Morón",
+    "shortName": "MOR",
+    "division": "Primera Nacional",
+    "localidad": "Morón",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_estudiantes_35",
+    "name": "Estudiantes",
+    "shortName": "ESC",
+    "division": "Primera Nacional",
+    "localidad": "Caseros",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_racing_36",
+    "name": "Racing",
+    "shortName": "RCA",
+    "division": "Primera Nacional",
+    "localidad": "Córdoba",
+    "provincia": "Córdoba"
+  },
+  {
+    "id": "cat_los-andes_37",
+    "name": "Los Andes",
+    "shortName": "LOA",
+    "division": "Primera Nacional",
+    "localidad": "Lomas de Zamora",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_mitre_38",
+    "name": "Mitre",
+    "shortName": "MIT",
+    "division": "Primera Nacional",
+    "localidad": "Santiago del Estero",
+    "provincia": "Santiago del Estero"
+  },
+  {
+    "id": "cat_almirante-brown_39",
+    "name": "Almirante Brown",
+    "shortName": "ALM",
+    "division": "Primera Nacional",
+    "localidad": "San Justo",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_ciudad-de-bolivar_40",
+    "name": "Ciudad de Bolívar",
+    "shortName": "BOL",
+    "division": "Primera Nacional",
+    "localidad": "San Carlos de Bolívar",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_colon_41",
+    "name": "Colón",
+    "shortName": "COL",
+    "division": "Primera Nacional",
+    "localidad": "Santa Fe",
+    "provincia": "Santa Fe"
+  },
+  {
+    "id": "cat_central-norte_42",
+    "name": "Central Norte",
+    "shortName": "CNR",
+    "division": "Primera Nacional",
+    "localidad": "Salta",
+    "provincia": "Salta"
+  },
+  {
+    "id": "cat_godoy-cruz_43",
+    "name": "Godoy Cruz",
+    "shortName": "GC",
+    "division": "Primera Nacional",
+    "localidad": "Godoy Cruz",
+    "provincia": "Mendoza"
+  },
+  {
+    "id": "cat_san-telmo_44",
+    "name": "San Telmo",
+    "shortName": "STE",
+    "division": "Primera Nacional",
+    "barrio": "San Telmo",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_san-miguel_45",
+    "name": "San Miguel",
+    "shortName": "SMG",
+    "division": "Primera Nacional",
+    "localidad": "San Miguel",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_defensores-de-belgrano_46",
+    "name": "Defensores de Belgrano",
+    "shortName": "DFB",
+    "division": "Primera Nacional",
+    "barrio": "Núñez",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_acassuso_47",
+    "name": "Acassuso",
+    "shortName": "ACA",
+    "division": "Primera Nacional",
+    "localidad": "Boulogne",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_nueva-chicago_48",
+    "name": "Nueva Chicago",
+    "shortName": "CHI",
+    "division": "Primera Nacional",
+    "barrio": "Mataderos",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_chacarita-juniors_49",
+    "name": "Chacarita Juniors",
+    "shortName": "CHA",
+    "division": "Primera Nacional",
+    "barrio": "Villa Maipú",
+    "localidad": "San Martín",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_atlanta_50",
+    "name": "Atlanta",
+    "shortName": "ATL",
+    "division": "Primera Nacional",
+    "barrio": "Villa Crespo",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_san-martin_51",
+    "name": "San Martín",
+    "shortName": "SMT",
+    "division": "Primera Nacional",
+    "localidad": "San Miguel de Tucumán",
+    "provincia": "Tucumán"
+  },
+  {
+    "id": "cat_gimnasia-y-esgrima-de-jujuy_52",
+    "name": "Gimnasia y Esgrima de Jujuy",
+    "shortName": "GEJ",
+    "division": "Primera Nacional",
+    "localidad": "San Salvador de Jujuy",
+    "provincia": "Jujuy"
+  },
+  {
+    "id": "cat_almagro_53",
+    "name": "Almagro",
+    "shortName": "ALG",
+    "division": "Primera Nacional",
+    "localidad": "Tres de Febrero",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_san-martin_54",
+    "name": "San Martín",
+    "shortName": "SMS",
+    "division": "Primera Nacional",
+    "localidad": "San Juan",
+    "provincia": "San Juan"
+  },
+  {
+    "id": "cat_temperley_55",
+    "name": "Temperley",
+    "shortName": "TEM",
+    "division": "Primera Nacional",
+    "localidad": "Temperley",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_guemes_56",
+    "name": "Güemes",
+    "shortName": "GUE",
+    "division": "Primera Nacional",
+    "localidad": "Santiago del Estero",
+    "provincia": "Santiago del Estero"
+  },
+  {
+    "id": "cat_tristan-suarez_57",
+    "name": "Tristán Suárez",
+    "shortName": "TSU",
+    "division": "Primera Nacional",
+    "localidad": "Tristán Suárez",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_agropecuario_58",
+    "name": "Agropecuario",
+    "shortName": "AGR",
+    "division": "Primera Nacional",
+    "localidad": "Carlos Casares",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_patronato_59",
+    "name": "Patronato",
+    "shortName": "PAT",
+    "division": "Primera Nacional",
+    "localidad": "Paraná",
+    "provincia": "Entre Ríos"
+  },
+  {
+    "id": "cat_gimnasia-y-tiro_60",
+    "name": "Gimnasia y Tiro",
+    "shortName": "GYT",
+    "division": "Primera Nacional",
+    "localidad": "Salta",
+    "provincia": "Salta"
+  },
+  {
+    "id": "cat_deportivo-maipu_61",
+    "name": "Deportivo Maipú",
+    "shortName": "MAI",
+    "division": "Primera Nacional",
+    "localidad": "Maipú",
+    "provincia": "Mendoza"
+  },
+  {
+    "id": "cat_quilmes_62",
+    "name": "Quilmes",
+    "shortName": "QUI",
+    "division": "Primera Nacional",
+    "localidad": "Quilmes",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_colegiales_63",
+    "name": "Colegiales",
+    "shortName": "CGE",
+    "division": "Primera Nacional",
+    "barrio": "Munro",
+    "localidad": "Vicente López",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_atletico-de-rafaela_64",
+    "name": "Atlético de Rafaela",
+    "shortName": "RFA",
+    "division": "Primera Nacional",
+    "localidad": "Rafaela",
+    "provincia": "Santa Fe"
+  },
+  {
+    "id": "cat_ferrocarril-midland_65",
+    "name": "Ferrocarril Midland",
+    "shortName": "MID",
+    "division": "Primera Nacional",
+    "localidad": "Libertad",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_argentino-de-merlo_66",
+    "name": "Argentino de Merlo",
+    "division": "Primera B",
+    "localidad": "Merlo",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_argentino-de-quilmes_67",
+    "name": "Argentino de Quilmes",
+    "division": "Primera B",
+    "localidad": "Quilmes",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_arsenal_68",
+    "name": "Arsenal",
+    "division": "Primera B",
+    "barrio": "Sarandí",
+    "localidad": "Avellaneda",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_brown-de-adrogue_69",
+    "name": "Brown de Adrogué",
+    "division": "Primera B",
+    "localidad": "Adrogué",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_comunicaciones_70",
+    "name": "Comunicaciones",
+    "division": "Primera B",
+    "barrio": "Agronomía",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_defensores-unidos_71",
+    "name": "Defensores Unidos",
+    "division": "Primera B",
+    "localidad": "Zárate",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_deportivo-armenio_72",
+    "name": "Deportivo Armenio",
+    "division": "Primera B",
+    "localidad": "Ingeniero Maschwitz",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_deportivo-camioneros_73",
+    "name": "Deportivo Camioneros",
+    "division": "Primera B",
+    "localidad": "9 de Abril",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_deportivo-laferrere_74",
+    "name": "Deportivo Laferrere",
+    "division": "Primera B",
+    "localidad": "Laferrere",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_deportivo-merlo_75",
+    "name": "Deportivo Merlo",
+    "division": "Primera B",
+    "localidad": "Parque San Martín",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_dock-sud_76",
+    "name": "Dock Sud",
+    "division": "Primera B",
+    "barrio": "Dock Sud",
+    "localidad": "Avellaneda",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_excursionistas_77",
+    "name": "Excursionistas",
+    "division": "Primera B",
+    "barrio": "Belgrano",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_flandria_78",
+    "name": "Flandria",
+    "division": "Primera B",
+    "localidad": "Jáuregui",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_ituzaingo_79",
+    "name": "Ituzaingó",
+    "division": "Primera B",
+    "localidad": "Ituzaingó",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_liniers_80",
+    "name": "Liniers",
+    "division": "Primera B",
+    "localidad": "San Justo",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_real-pilar_81",
+    "name": "Real Pilar",
+    "division": "Primera B",
+    "localidad": "Pilar",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_san-martin-burzaco_82",
+    "name": "San Martín (Burzaco)",
+    "division": "Primera B",
+    "localidad": "Burzaco",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_sportivo-italiano_83",
+    "name": "Sportivo Italiano",
+    "division": "Primera B",
+    "localidad": "Ciudad Evita",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_talleres-remedios-de-escalada_84",
+    "name": "Talleres (Remedios de Escalada)",
+    "division": "Primera B",
+    "localidad": "Remedios de Escalada",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_uai-urquiza_85",
+    "name": "UAI Urquiza",
+    "division": "Primera B",
+    "localidad": "Villa Lynch",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_villa-dalmine_86",
+    "name": "Villa Dálmine",
+    "division": "Primera B",
+    "localidad": "Campana",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_villa-san-carlos_87",
+    "name": "Villa San Carlos",
+    "division": "Primera B",
+    "localidad": "Berisso",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_9-de-julio_88",
+    "name": "9 de Julio",
+    "division": "Torneo Federal A",
+    "localidad": "Rafaela",
+    "provincia": "Santa Fe"
+  },
+  {
+    "id": "cat_defensores-de-belgrano-villa-ramallo_89",
+    "name": "Defensores de Belgrano (Villa Ramallo)",
+    "division": "Torneo Federal A",
+    "localidad": "Villa Ramallo",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_douglas-haig_90",
+    "name": "Douglas Haig",
+    "division": "Torneo Federal A",
+    "localidad": "Pergamino",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_el-linqueno_91",
+    "name": "El Linqueño",
+    "division": "Torneo Federal A",
+    "localidad": "Lincoln",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_escobar-fc_92",
+    "name": "Escobar FC",
+    "division": "Torneo Federal A",
+    "localidad": "Ingeniero Maschwitz",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_gimnasia-y-esgrima-chivilcoy_93",
+    "name": "Gimnasia y Esgrima (Chivilcoy)",
+    "division": "Torneo Federal A",
+    "localidad": "Chivilcoy",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_gimnasia-y-esgrima-concepcion-del-uruguay_94",
+    "name": "Gimnasia y Esgrima (Concepción del Uruguay)",
+    "division": "Torneo Federal A",
+    "localidad": "Concepción del Uruguay",
+    "provincia": "Entre Ríos"
+  },
+  {
+    "id": "cat_independiente-chivilcoy_95",
+    "name": "Independiente (Chivilcoy)",
+    "division": "Torneo Federal A",
+    "localidad": "Chivilcoy",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_sportivo-belgrano_96",
+    "name": "Sportivo Belgrano",
+    "division": "Torneo Federal A",
+    "localidad": "San Francisco",
+    "provincia": "Córdoba"
+  },
+  {
+    "id": "cat_sportivo-las-parejas_97",
+    "name": "Sportivo Las Parejas",
+    "division": "Torneo Federal A",
+    "localidad": "Las Parejas",
+    "provincia": "Santa Fe"
+  },
+  {
+    "id": "cat_bartolome-mitre_98",
+    "name": "Bartolomé Mitre",
+    "division": "Torneo Federal A",
+    "localidad": "Posadas",
+    "provincia": "Misiones"
+  },
+  {
+    "id": "cat_boca-unidos_99",
+    "name": "Boca Unidos",
+    "division": "Torneo Federal A",
+    "localidad": "Corrientes",
+    "provincia": "Corrientes"
+  },
+  {
+    "id": "cat_defensores-puerto-vilelas_100",
+    "name": "Defensores (Puerto Vilelas)",
+    "division": "Torneo Federal A",
+    "localidad": "Puerto Vilelas",
+    "provincia": "Chaco"
+  },
+  {
+    "id": "cat_juventud-antoniana_101",
+    "name": "Juventud Antoniana",
+    "division": "Torneo Federal A",
+    "localidad": "Salta",
+    "provincia": "Salta"
+  },
+  {
+    "id": "cat_san-martin-formosa_102",
+    "name": "San Martín (Formosa)",
+    "division": "Torneo Federal A",
+    "localidad": "Formosa",
+    "provincia": "Formosa"
+  },
+  {
+    "id": "cat_sarmiento-la-banda_103",
+    "name": "Sarmiento (La Banda)",
+    "division": "Torneo Federal A",
+    "localidad": "La Banda",
+    "provincia": "Santiago del Estero"
+  },
+  {
+    "id": "cat_sarmiento-resistencia_104",
+    "name": "Sarmiento (Resistencia)",
+    "division": "Torneo Federal A",
+    "localidad": "Resistencia",
+    "provincia": "Chaco"
+  },
+  {
+    "id": "cat_sol-de-america_105",
+    "name": "Sol de América",
+    "division": "Torneo Federal A",
+    "localidad": "Formosa",
+    "provincia": "Formosa"
+  },
+  {
+    "id": "cat_tucuman-central_106",
+    "name": "Tucumán Central",
+    "division": "Torneo Federal A",
+    "localidad": "San Miguel de Tucumán",
+    "provincia": "Tucumán"
+  },
+  {
+    "id": "cat_atletico-san-martin_107",
+    "name": "Atlético San Martín",
+    "division": "Torneo Federal A",
+    "localidad": "San Martín",
+    "provincia": "Mendoza"
+  },
+  {
+    "id": "cat_atenas_108",
+    "name": "Atenas",
+    "division": "Torneo Federal A",
+    "localidad": "Río Cuarto",
+    "provincia": "Córdoba"
+  },
+  {
+    "id": "cat_costa-brava_109",
+    "name": "Costa Brava",
+    "division": "Torneo Federal A",
+    "localidad": "General Pico",
+    "provincia": "La Pampa"
+  },
+  {
+    "id": "cat_deportivo-argentino_110",
+    "name": "Deportivo Argentino",
+    "division": "Torneo Federal A",
+    "localidad": "Monte Maíz",
+    "provincia": "Córdoba"
+  },
+  {
+    "id": "cat_deportivo-rincon_111",
+    "name": "Deportivo Rincón",
+    "division": "Torneo Federal A",
+    "localidad": "Rincón de los Sauces",
+    "provincia": "Neuquén"
+  },
+  {
+    "id": "cat_fadep_112",
+    "name": "FADEP",
+    "division": "Torneo Federal A",
+    "localidad": "Russell",
+    "provincia": "Mendoza"
+  },
+  {
+    "id": "cat_huracan-las-heras_113",
+    "name": "Huracán Las Heras",
+    "division": "Torneo Federal A",
+    "localidad": "Las Heras",
+    "provincia": "Mendoza"
+  },
+  {
+    "id": "cat_juventud-unida-universitario_114",
+    "name": "Juventud Unida Universitario",
+    "division": "Torneo Federal A",
+    "localidad": "San Luis",
+    "provincia": "San Luis"
+  },
+  {
+    "id": "cat_cipolletti_115",
+    "name": "Cipolletti",
+    "division": "Torneo Federal A",
+    "localidad": "Cipolletti",
+    "provincia": "Río Negro"
+  },
+  {
+    "id": "cat_alvarado_116",
+    "name": "Alvarado",
+    "division": "Torneo Federal A",
+    "localidad": "Mar del Plata",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_circulo-deportivo_117",
+    "name": "Círculo Deportivo",
+    "division": "Torneo Federal A",
+    "localidad": "Comandante Nicanor Otamendi",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_germinal_118",
+    "name": "Germinal",
+    "division": "Torneo Federal A",
+    "localidad": "Rawson",
+    "provincia": "Chubut"
+  },
+  {
+    "id": "cat_guillermo-brown_119",
+    "name": "Guillermo Brown",
+    "division": "Torneo Federal A",
+    "localidad": "Puerto Madryn",
+    "provincia": "Chubut"
+  },
+  {
+    "id": "cat_kimberley_120",
+    "name": "Kimberley",
+    "division": "Torneo Federal A",
+    "localidad": "Mar del Plata",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_olimpo_121",
+    "name": "Olimpo",
+    "division": "Torneo Federal A",
+    "localidad": "Bahía Blanca",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_santamarina_122",
+    "name": "Santamarina",
+    "division": "Torneo Federal A",
+    "localidad": "Tandil",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_sol-de-mayo_123",
+    "name": "Sol de Mayo",
+    "division": "Torneo Federal A",
+    "localidad": "Viedma",
+    "provincia": "Río Negro"
+  },
+  {
+    "id": "cat_villa-mitre_124",
+    "name": "Villa Mitre",
+    "division": "Torneo Federal A",
+    "localidad": "Bahía Blanca",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_lugano_125",
+    "name": "Lugano",
+    "division": "Primera C",
+    "localidad": "Tapiales",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_berazategui_126",
+    "name": "Berazategui",
+    "division": "Primera C",
+    "localidad": "Berazategui",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_centro-espanol_127",
+    "name": "Centro Español",
+    "division": "Primera C",
+    "localidad": "Villa Sarmiento",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_estrella-del-sur_128",
+    "name": "Estrella del Sur",
+    "division": "Primera C",
+    "localidad": "Alejandro Korn",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_juventud-unida_129",
+    "name": "Juventud Unida",
+    "division": "Primera C",
+    "localidad": "San Miguel",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_puerto-nuevo_130",
+    "name": "Puerto Nuevo",
+    "division": "Primera C",
+    "localidad": "Campana",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_victoriano-arenas_131",
+    "name": "Victoriano Arenas",
+    "division": "Primera C",
+    "localidad": "Valentín Alsina",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_mercedes_132",
+    "name": "Mercedes",
+    "division": "Primera C",
+    "localidad": "Mercedes",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_defensores-de-cambaceres_133",
+    "name": "Defensores de Cambaceres",
+    "division": "Primera C",
+    "localidad": "Ensenada",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_j-j-de-urquiza_134",
+    "name": "J.J. de Urquiza",
+    "division": "Primera C",
+    "localidad": "Loma Hermosa",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_deportivo-paraguayo_135",
+    "name": "Deportivo Paraguayo",
+    "division": "Primera C",
+    "localidad": "González Catán",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_leandro-n-alem_136",
+    "name": "Leandro N. Alem",
+    "division": "Primera C",
+    "localidad": "General Rodríguez",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_argentino-de-rosario_137",
+    "name": "Argentino de Rosario",
+    "division": "Primera C",
+    "localidad": "Rosario",
+    "provincia": "Santa Fe"
+  },
+  {
+    "id": "cat_lujan_138",
+    "name": "Luján",
+    "division": "Primera C",
+    "localidad": "Luján",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_canuelas_139",
+    "name": "Cañuelas",
+    "division": "Primera C",
+    "localidad": "Cañuelas",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_leones-de-rosario_140",
+    "name": "Leones de Rosario",
+    "division": "Primera C",
+    "localidad": "Rosario",
+    "provincia": "Santa Fe"
+  },
+  {
+    "id": "cat_deportivo-espanol_141",
+    "name": "Deportivo Español",
+    "division": "Primera C",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_central-cordoba-rosario_142",
+    "name": "Central Córdoba (Rosario)",
+    "division": "Primera C",
+    "localidad": "Rosario",
+    "provincia": "Santa Fe"
+  },
+  {
+    "id": "cat_sportivo-barracas_143",
+    "name": "Sportivo Barracas",
+    "division": "Primera C",
+    "barrio": "Barracas",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_yupanqui_144",
+    "name": "Yupanqui",
+    "division": "Primera C",
+    "localidad": "Ciudad Evita",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_general-lamadrid_145",
+    "name": "General Lamadrid",
+    "division": "Primera C",
+    "barrio": "Villa Devoto",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_el-porvenir_146",
+    "name": "El Porvenir",
+    "division": "Primera C",
+    "localidad": "Gerli",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_atlas_147",
+    "name": "Atlas",
+    "division": "Primera C",
+    "localidad": "General Rodríguez",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_central-ballester_148",
+    "name": "Central Ballester",
+    "division": "Primera C",
+    "localidad": "José León Suárez",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_claypole_149",
+    "name": "Claypole",
+    "division": "Primera C",
+    "localidad": "Claypole",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_fenix_150",
+    "name": "Fénix",
+    "division": "Primera C",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  },
+  {
+    "id": "cat_muniz_151",
+    "name": "Muñiz",
+    "division": "Primera C",
+    "localidad": "Muñiz",
+    "provincia": "Buenos Aires"
+  },
+  {
+    "id": "cat_sacachispas_152",
+    "name": "Sacachispas",
+    "division": "Primera C",
+    "barrio": "Villa Soldati",
+    "localidad": "Buenos Aires",
+    "provincia": "CABA"
+  }
+]
