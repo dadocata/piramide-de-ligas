@@ -3,7 +3,7 @@ services:
     name: piramide-de-ligas
     runtime: node
     plan: free
-    buildCommand: npm install && npm run build && npm run build:server
+    buildCommand: npm ci --include=dev && npm run build && npm run build:server
     startCommand: npm start
     healthCheckPath: /api/auth/config
     envVars:
