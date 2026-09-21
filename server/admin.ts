@@ -10,18 +10,18 @@ function validUsername(username: string): boolean {
  *   ADMIN_USERNAME, ADMIN_PASSWORD, ADMIN_FULL_NAME, ADMIN_FAVORITE_CLUB
  * Si el usuario ya existe, lo promueve a admin.
  */
-export function ensureAdmin(): void {
+export function ensureAdmin(): string | undefined {
   const username = process.env.ADMIN_USERNAME?.trim().toLowerCase() ?? ''
-  if (!username) return
+  if (!username) return undefined
 
   const password = process.env.ADMIN_PASSWORD ?? ''
   if (!validUsername(username)) {
     console.warn('ADMIN_USERNAME inválido (3-20 caracteres: letras, números, _ o -). No se garantizó el admin.')
-    return
+    return undefined
   }
   if (password.length < 6) {
     console.warn('ADMIN_PASSWORD debe tener al menos 6 caracteres. No se garantizó el admin.')
-    return
+    return undefined
   }
 
   const db = getDb()
@@ -30,7 +30,7 @@ export function ensureAdmin(): void {
   if (existing) {
     db.prepare('UPDATE users SET role = ? WHERE id = ?').run('admin', existing.id)
     console.log(`Admin garantizado: "${username}" (ya existente, promovido).`)
-    return
+    return existing.id
   }
 
   const fullName = process.env.ADMIN_FULL_NAME?.trim() || 'Administrador'
@@ -41,4 +41,5 @@ export function ensureAdmin(): void {
     'INSERT INTO users (id, username, password_hash, full_name, favorite_club, created_at, role) VALUES (?, ?, ?, ?, ?, ?, ?)'
   ).run(id, username, bcrypt.hashSync(password, 12), fullName, favoriteClub, now, 'admin')
   console.log(`Admin creado: "${username}".`)
+  return id
 }

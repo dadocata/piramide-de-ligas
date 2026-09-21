@@ -12,6 +12,7 @@
     "build": "tsc --noEmit && vite build",
     "build:server": "tsc -p server",
     "start": "node dist-server/index.js",
+    "export-seed": "tsx server/scripts/export-seed.ts",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit"
   },
